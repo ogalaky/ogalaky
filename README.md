@@ -22,3 +22,10 @@
 
 Eu gosto de tecnologia e programação, leio livros e mangás e amo estudar matemática, química e fisíca. Sou um nerd por completo.
 ### Obrigado por ter lido meu "Sobre mim" do Github, falou!
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogalaky/ogalaky/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogalaky/ogalaky/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ogalaky/ogalaky/output/github-contribution-grid-snake.svg">
+</picture>
+<br/><br>
